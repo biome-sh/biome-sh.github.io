@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biome</title>
+    <link>/en/</link>
+    <description>Recent content on Biome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Credits</title>
+      <link>/en/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/credits/</guid>
+      <description>Thanks to them  for making Open Source Software a better place!
+Biome .ghContributors{ display: flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 25%; display: inline-flex; margin-bottom: 5px; padding-right: 5px; border-bottom: solid #eee 1px; } .ghContributors  div img{ height: 48px; width: 48px; margin-bottom: .25em; vertical-align: middle; } .ghContributors  div label{ padding-left: 4px; } .ghContributors  div span{ font-size: x-small; padding-left: 4px; }   @reset 1280 commits   @fnichol 1139 commits   @christophermaier 881 commits   @mwrock 654 commits   @baumanj 573 commits   @raskchanky 494 commits   @chefsalim 322 commits   @adamhjk 174 commits   @ryankeairns 154 commits   @cnunciato 151 commits   @smacfarlane 140 commits   @smurawski 128 commits   @davidwrede 122 commits   @eeyun 105 commits   @tashimi 103 commits   @nellshamrell 88 commits   @jtimberman 74 commits   @scotthain 72 commits   @bodymindarts 61 commits   @magwalk 61 commits   See all contributors</description>
+    </item>
+    
+  </channel>
+</rss>

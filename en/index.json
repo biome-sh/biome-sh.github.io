@@ -1,0 +1,57 @@
+[
+{
+	"uri": "/en/introduction/about/",
+	"title": "About Biome",
+	"tags": [],
+	"description": "",
+	"content": "Biome was born out of the desire for a free and open source distribution of Chef Habitat\u0026trade;. This distribution shares the same codebase, but is not backed by or supported by Chef Software Inc.\n"
+},
+{
+	"uri": "/en/introduction/",
+	"title": "Introduction",
+	"tags": [],
+	"description": "",
+	"content": "Get an introduction to Biome installation, usage in the following pages:\n About Biome   Installation   "
+},
+{
+	"uri": "/en/introduction/installation/",
+	"title": "Installation",
+	"tags": [],
+	"description": "",
+	"content": "Biome is distributed as a standalone portable binary for various platforms. Initial installation is as simple as downloading that binary and installing in your path.\nDownload the latest release from the Github Releases Page for your platform.\nExample (MacOS):\n# Download the binary $ wget https://github.com/biome-sh/biome/releases/download/bio-0.83.0/bio-0.83.0-x86_64-darwin # Rename to 'bio' $ mv bio-0.83.0-x86_64-darwin /usr/local/bin/bio  You can now run bio:\n$ bio --version bio 0.83.0  "
+},
+{
+	"uri": "/en/contributing/",
+	"title": "Contributing",
+	"tags": [],
+	"description": "",
+	"content": "Interested in contributing to the Biome source code, community or documentation? We\u0026rsquo;d love to hear from you!\nHere are the best ways to get in touch:\n Submit an issue on Github Submit a pull request on Github Tweet to us @biome_sh  We\u0026rsquo;re also really interested to receive support for translating the site. Check the link at the top right of every page to edit, and submit pull requests directly on Github.\n"
+},
+{
+	"uri": "/en/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Biome is a community distribution of Chef Habitat\u0026trade; released under the Apache-2.0 license. No restrictions, no commercial licensing, and no cost. Free to use for anyone for personal or commercial purposes. Biome was forked from the Chef Habitat\u0026trade; project to create a open source and free to use distribution following Chef’s guidelines.\n"
+},
+{
+	"uri": "/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "",
+	"content": " Thanks to them  for making Open Source Software a better place!\nBiome .ghContributors{ display: flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 25%; display: inline-flex; margin-bottom: 5px; padding-right: 5px; border-bottom: solid #eee 1px; } .ghContributors  div img{ height: 48px; width: 48px; margin-bottom: .25em; vertical-align: middle; } .ghContributors  div label{ padding-left: 4px; } .ghContributors  div span{ font-size: x-small; padding-left: 4px; }   @reset 1280 commits   @fnichol 1139 commits   @christophermaier 881 commits   @mwrock 654 commits   @baumanj 573 commits   @raskchanky 494 commits   @chefsalim 322 commits   @adamhjk 174 commits   @ryankeairns 154 commits   @cnunciato 151 commits   @smacfarlane 140 commits   @smurawski 128 commits   @davidwrede 122 commits   @eeyun 105 commits   @tashimi 103 commits   @nellshamrell 88 commits   @jtimberman 74 commits   @scotthain 72 commits   @bodymindarts 61 commits   @magwalk 61 commits   See all contributors\nCore Plans .ghContributors{ display: flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 25%; display: inline-flex; margin-bottom: 5px; padding-right: 5px; border-bottom: solid #eee 1px; } .ghContributors  div img{ height: 48px; width: 48px; margin-bottom: .25em; vertical-align: middle; } .ghContributors  div label{ padding-left: 4px; } .ghContributors  div span{ font-size: x-small; padding-left: 4px; }   @predominant 699 commits   @fnichol 614 commits   @smacfarlane 570 commits   @nellshamrell 355 commits   @reset 345 commits   @rsertelon 212 commits   @eeyun 176 commits   @mwrock 157 commits   @echohack 139 commits   @Defilan 133 commits   @stevendanna 102 commits   @elliott-davis 94 commits   @smith 91 commits   @TheDarkula 84 commits   @jtimberman 73 commits   @wduncanfraser 62 commits   @srenatus 59 commits   @miketheman 58 commits   @bdangit 56 commits   @themightychris 50 commits   @johnjelinek 44 commits   @james-stocks 42 commits   @raskchanky 33 commits   See all contributors\nWebsite .ghContributors{ display: flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 25%; display: inline-flex; margin-bottom: 5px; padding-right: 5px; border-bottom: solid #eee 1px; } .ghContributors  div img{ height: 48px; width: 48px; margin-bottom: .25em; vertical-align: middle; } .ghContributors  div label{ padding-left: 4px; } .ghContributors  div span{ font-size: x-small; padding-left: 4px; }   @predominant 11 commits   See all contributors\nOther And thanks to everyone that uses Biome, and helps the community grow! You\u0026rsquo;re awesome!\n"
+},
+{
+	"uri": "/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
