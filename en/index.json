@@ -18,7 +18,7 @@
 	"title": "Installation",
 	"tags": [],
 	"description": "",
-	"content": "Biome is distributed as a standalone portable binary for various platforms. Initial installation is as simple as downloading that binary and installing in your path.\nDownload the latest release from the Github Releases Page for your platform.\nExample (MacOS):\n# Download the binary $ wget https://github.com/biome-sh/biome/releases/download/bio-0.83.0/bio-0.83.0-x86_64-darwin # Rename to 'bio' $ mv bio-0.83.0-x86_64-darwin /usr/local/bin/bio  You can now run bio:\n$ bio --version bio 0.83.0  "
+	"content": "Biome is distributed as a standalone portable binary for various platforms. Initial installation is as simple as downloading that binary and installing in your path.\nDownload the latest release from the Github Releases Page for your platform.\nExample (MacOS):\n# Download the binary $ wget https://github.com/biome-sh/biome/releases/download/bio-0.83.0/bio-0.83.0-x86_64-darwin # Rename to 'bio' $ mv bio-0.83.0-x86_64-darwin /usr/local/bin/bio $ chmod +x /usr/local/bin/bio  You can now run bio:\n$ bio --version bio 0.83.0  "
 },
 {
 	"uri": "/en/contributing/",
