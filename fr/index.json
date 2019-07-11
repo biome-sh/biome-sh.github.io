@@ -1,5 +1,19 @@
 [
 {
+	"uri": "/fr/introduction/installation/",
+	"title": "Installation",
+	"tags": [],
+	"description": "",
+	"content": "Biome est une solution logicielle autonome et portable prévue pour différentes plateformes. Pour la première installation il vous suffit de télécharger l\u0026rsquo;archive et de l\u0026rsquo;exécuter.\nTéléchargez la dernière version pour votre plateforme à partir de la page \u0026ldquo;Releases\u0026rdquo; de Github.\nExemple (MacOS):\n# Download the binary $ wget https://github.com/biome-sh/biome/releases/download/bio-0.83.0/bio-0.83.0-x86_64-darwin # Rename to 'bio' $ mv bio-0.83.0-x86_64-darwin /usr/local/bin/bio $ chmod +x /usr/local/bin/bio  Vous pouvez à présent exécuter bio.\n$ bio --version bio 0.83.0  "
+},
+{
+	"uri": "/fr/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "Biome est une distribution communautaire de Chef Habitat\u0026trade; publiée sous la licence Apache-2.0. Il n\u0026rsquo;y a pas de restriction ni de limitation commerciale et aucun coût. C\u0026rsquo;est gratuit pour tout le monde pour un usage personnel ou commercial. Biome s\u0026rsquo;est séparé du projet Chef Habitat\u0026trade; afin de créer une distribution open source et libre de droit suivant les directives de Chef.\n"
+},
+{
 	"uri": "/fr/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -7,8 +21,8 @@
 	"content": ""
 },
 {
-	"uri": "/fr/",
-	"title": "Documentation du thème Hugo Learn",
+	"uri": "/fr/introduction/",
+	"title": "Introductions",
 	"tags": [],
 	"description": "",
 	"content": ""

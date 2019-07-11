@@ -3,17 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/categories/</loc>
-    <priority>0</priority>
+    <loc>/fr/introduction/installation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/en/introduction/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="/fr/introduction/installation/"
                 />
   </url>
   
@@ -29,6 +28,36 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/introduction/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/introduction/"
                 />
   </url>
   

@@ -8,10 +8,30 @@
   
   <url>
     <loc>/en/introduction/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/introduction/"
+                />
   </url>
   
   <url>
     <loc>/en/introduction/installation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/introduction/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/introduction/installation/"
+                />
   </url>
   
   <url>
